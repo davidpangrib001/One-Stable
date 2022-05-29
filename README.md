@@ -1,3 +1,4 @@
+<img src="https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=1200&scaleHeight=800&fontsize=155&fillTextType=1&fillTextPattern=Warning&text=Hello!" alt="Hello World"/>
 # ONE BOTZ
 <strong>Versi Rework Script Lama Yang Error</stronv>
 <br><br>
