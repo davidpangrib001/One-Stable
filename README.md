@@ -4,12 +4,11 @@
 <br>
 <strong>Versi Rework Script Lama Yang Error</strong>
 <br>
-<img src="https://express-uploader.dapitt.repl.co/file/tjkthy5NXBei.png" alt="Google"/>
 <br><br>
 <h3>Now support Heroku and Okteto</h3>
 -------
 
-[`Click Here to Website Heroku`](https://heroku.com)
+[`Click Here to Website Heroku`](https://heroku.com)<br>
 [`Click Here to Website Okteto`](https://okteto.com)
 <br>
 ## `Heroku Bulidpack`
