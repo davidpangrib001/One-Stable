@@ -4,6 +4,11 @@
 <br>
 <strong>Versi Rework Script Lama Yang Error</stronv>
 <br><br>
+## ```Jangan Lupa Cobain File Uploader Saya```
+[`Click Here - Replit`](https://express-uploader.dapitt.repl.co)
+[`Click Here - Heroku`](https://uploader-one-botz.herokuapp.com)
+<br>
+<strong>Jika Ada Error, Hubungi Owner!</strong>
 <h3>Now support Heroku and Okteto</h3>
 -------
 
