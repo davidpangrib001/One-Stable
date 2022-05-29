@@ -10,12 +10,12 @@
 [`Click Here to Website Heroku`](https://heroku.com)
 [`Click Here to Website Okteto`](https://okteto.com)
 <br>
-## `ADD BUILDPACK`
+## Heroku Bulidpack`
 
 ```
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+[`NodeJS`](heroku/nodejs)
+[`FFmpeg`](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
+[`ImageMagick`](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)
 ```
 
 ## `CHANGE SESSION`
