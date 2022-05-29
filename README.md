@@ -4,14 +4,6 @@
 <br>
 <strong>Versi Rework Script Lama Yang Error</stronv>
 <br><br>
-## `Jangan Lupa Cobain File Uploader Saya`
-<br>
-<br>
-[`Click Here - Replit`](https://express-uploader.dapitt.repl.co)
-<br>
-[`Click Here - Heroku`](https://uploader-one-botz.herokuapp.com)
-<br>
-<strong>Jika Ada Error, Hubungi Owner!</strong>
 <h3>Now support Heroku and Okteto</h3>
 -------
 
@@ -65,6 +57,14 @@ Off in web nya
 - [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
 - [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
 
+## `Jangan Lupa Cobain File Uploader Saya`
+<br>
+<br>
+[`Click Here - Replit`](https://express-uploader.dapitt.repl.co)
+<br>
+[`Click Here - Heroku`](https://uploader-one-botz.herokuapp.com)
+<br>
+<strong>Jika Ada Error, Hubungi Owner!</strong>
 ## `THANKS TO`
 
 - Allah SWT.
