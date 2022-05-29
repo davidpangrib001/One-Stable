@@ -4,8 +4,8 @@
 <h3>Now support Heroku and Okteto</h3>
 -------
 
-[`Click Here to Website Heroku`](heroku.com)
-[`Click Here to Website Okteto`](okteto.com)
+[`Click Here to Website Heroku`](https://heroku.com)
+[`Click Here to Website Okteto`](https://okteto.com)
 <br>
 ## `ADD BUILDPACK`
 
