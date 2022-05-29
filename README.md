@@ -2,7 +2,9 @@
 <img src="https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=1200&scaleHeight=800&fontsize=155&fillTextType=1&fillTextPattern=Warning&text=Hello!" alt="Hello World"/>
 <br>
 <br>
-<strong>Versi Rework Script Lama Yang Error</stronv>
+<strong>Versi Rework Script Lama Yang Error</strong>
+<br>
+<img src="https://express-uploader.dapitt.repl.co/file/tjkthy5NXBei.png" alt="Google"/>
 <br><br>
 <h3>Now support Heroku and Okteto</h3>
 -------
