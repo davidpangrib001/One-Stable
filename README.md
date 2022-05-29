@@ -51,18 +51,14 @@ Off in web nya
 
 - [`SAWERIA`](https://saweria.co/zeeoneofc)
 
-## ```GROUP SUPPORT```
+## ```IMAGE UPLOADER```
 
-- [`Alphabot 1`](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
+- [`Server 1`](https://uploader-one-botz.herokuapp.com)
+- [`Server 2`](https://express-uploader.dapitt.repl.co)
+<br>
+<strong>Gambar Yang Anda Upload 100% Aman</strong>
 
-## ```Jangan Lupa Cobain File Uploader Saya```
-<br>
-[`Server 1`](https://uploader-one-botz.herokuapp.com)
-<br>
-[`Server 2](https://express-uploader.dapitt.repl.co)
-<br>
+
 ## `THANKS TO`
 
 - Allah SWT.
