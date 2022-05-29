@@ -59,9 +59,8 @@ Off in web nya
 
 ## `Jangan Lupa Cobain File Uploader Saya`
 <br>
-<br>
-[`Click Here - Replit`](https://express-uploader.dapitt.repl.co)
-[`Click Here - Heroku`](https://uploader-one-botz.herokuapp.com)
+[`Replit Server`](https://express-uploader.dapitt.repl.co)
+[`Heroku Server`](https://uploader-one-botz.herokuapp.com)
 <br>
 <strong>Jika Ada Error, Hubungi Owner!</strong>
 <br>
