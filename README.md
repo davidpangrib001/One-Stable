@@ -61,7 +61,6 @@ Off in web nya
 <br>
 <br>
 [`Click Here - Replit`](https://express-uploader.dapitt.repl.co)
-<br>
 [`Click Here - Heroku`](https://uploader-one-botz.herokuapp.com)
 <br>
 <strong>Jika Ada Error, Hubungi Owner!</strong>
