@@ -39,7 +39,8 @@ Off in web nya
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/5HgB__wARjM)<br>
+[`Heroku Tutorial`](https://youtu.be/5HgB__wARjM)<br>
+[`Okteto Tutorial`](https://youtu.be/B1jbf3Kbgks)
 
 ----------
 
