@@ -45,7 +45,7 @@ Off in web nya
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" /><br>
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" alt="Om Zeeone 😅☝️"/><br>
   <a href="https://youtu.be/B1jbf3Kbgks"><img src="https://express-uploader.dapitt.repl.co/file/JP47hGssqU9P.jpg" alt="Siegrin 😅☝️">
 </p>
 
