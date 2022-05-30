@@ -15,7 +15,7 @@
 
 heroku/nodejs<br>
 [`FFmpeg`](https://github.com/interconnectit/heroku-buildpack-ffmpeg)<br>
-[`ImageMagick`](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)
+[`ImageMagick`](https://github.com/q-m/heroku-buildpack-imagemagick.git)
 
 ## `CHANGE SESSION`
 
