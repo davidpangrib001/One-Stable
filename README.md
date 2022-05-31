@@ -5,11 +5,6 @@
 <strong>Versi Rework Script Lama Yang Error</strong>
 <br>
 <br><br>
-## `WhatsApp Yang Saya Rekomendasi Untuk Dipakai`
-<br>
-[`Click Here`](https://bit.ly/3GCnw06)<br>
-
-
 <h3>Now support Heroku and Okteto</h3>
 -------
 
@@ -66,6 +61,12 @@ Off in web nya
 ## ```COFFEE```
 
 - [`SAWERIA`](https://saweria.co/zeeoneofc)
+
+
+## `WhatsApp Yang Saya Rekomendasi Untuk Dipakai`
+
+
+[`Click Here`](https://bit.ly/3GCnw06)<br>
 
 ## ```IMAGE UPLOADER```
 
