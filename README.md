@@ -5,7 +5,8 @@
 <strong>Versi Rework Script Lama Yang Error</strong>
 <br>
 <br><br>
-<h2>WhatsApp Yang Saya Rekomendasi Untuk Dipakai</h2><br>
+## `WhatsApp Yang Saya Rekomendasi Untuk Dipakai`
+<br>
 [`Click Here`](https://bit.ly/3GCnw06)<br>
 
 
