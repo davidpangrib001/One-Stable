@@ -21,11 +21,19 @@ heroku/nodejs<br>
 
 [`Click Here`](https://github.com/davidpangrib001/Hyzer-V3/edit/master/OneBotZ.json)
 
-## `SETTING`
-
-- Owner number [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
-- Owner name [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
-- Botname [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
+## `PENGINSTALAN DI TERMUX/VPS/SSH`
+<h5>$ apt update && apt upgrade</h5><br>
+<h5>$ apt install nodejs</h5><br>
+<h5>$ apt install git</h5><br>
+<h5>$ apt install ffmpeg</h5><br>
+<h5>$ apt install imagemagick</h5><br>
+<h5>$ git clone -b Stable https://github.com/davidpangrib001/One-Stable</h5><br>
+<h5>$ cd One-Stable</h5><br>
+<h5>git clone https://github.com/davidpangrib001/node_modules</h5><br>
+<h5>node .</h5><br>
+<p>Note:</p><br>
+<strong>Kalo Di Termux Yang apt ganti jadi pkg ya..</strong>
+<strong>Contoh : $ pkg install nodejs</strong>
 
 ## `CHANGE DYNO`
 
