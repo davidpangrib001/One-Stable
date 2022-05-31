@@ -30,7 +30,7 @@ heroku/nodejs<br>
 <h5>$ git clone -b Stable https://github.com/davidpangrib001/One-Stable</h5>
 <h5>$ cd One-Stable</h5>
 <h5>git clone https://github.com/davidpangrib001/node_modules</h5>
-<h5>node .</h5>
+<h5>node index</h5>
 <p>Note:</p>
 <strong>Kalo Di Termux Yang apt ganti jadi pkg ya..</strong>
 <strong>Contoh : $ pkg install nodejs</strong>
