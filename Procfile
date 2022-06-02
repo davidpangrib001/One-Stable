@@ -1,2 +1,2 @@
-worker : node . --server
+worker : npm install && node index.js
 
