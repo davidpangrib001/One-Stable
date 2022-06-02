@@ -1,35 +1,13 @@
-let fetch = require('node-fetch')
-let handler = async (m, { conn, args }) => {
-  if (!args[0]) throw 'Hanya Mau Menyampaikan..\nMana Linknya Woy..\n\nContoh Penggunaan :\n.tiktok https://vt.tiktok.com/ZSd9Kn8Sp/?k=1'
-  let res = await fetch(global.API('xteam', '/dl/tiktok', {
-    url: args[0]
-  }, 'APIKEY'))
-  if (res.status !== 200) throw await res.text()
-  let json = await res.json()
-  if (!json.status) throw json
-  /*let url = json.server_1 || json.info[0].videoUrl || ''
-  if (!url) throw 'Gagal mengambil url download'
-  let txt = json.info[0].text
-  for (let hashtag of json.info[0].hashtags) txt = txt.replace(hashtag, '*$&*')
-  await conn.sendFile(m.chat, url, 'tiktok.mp4', `
-▶ ${json.info[0].playCount} Views
-❤ ${json.info[0].diggCount} Likes
-🔁 ${json.info[0].shareCount} Shares
-💬 ${json.info[0].commentCount} Comments
-🎵 ${json.info[0].musicMeta.musicName} by ${json.info[0].musicMeta.musicAuthor}
-- *By:* ${json.info[0].authorMeta.nickName} (${json.info[0].authorMeta.name})
-- *Desc:*
-${txt}
-  `.trim(), m)*/
-  let url = json.result.link_dl1 || json.result.link_dl2 || ''
-  if (!url) throw 'Error Mengambil Video! Gosah Marah Ya..'
-  let txt = `
-*Tiktok Downloader*
-- *By:* ${json.result.name}
-- *Caption:*
-${json.result.caption}
-    `
-    await conn.sendFile(m.chat, url, 'tiktok.mp4', txt.trim(), m)
+const { tiktokdl } = require('@bochilteam/scraper')
+let handler = async (m, { conn, args, usedPrefix, command }) => {
+    if (!args[0]) throw `Use example ${usedPrefix}${command} https://www.tiktok.com/@omagadsus/video/7025456384175017243`
+    const { author: { nickname }, video, description } = await tiktokdl(args[0])
+    const url = video.no_watermark || video.no_watermark2 || video.no_watermark_raw
+    if (!url) throw 'Can\'t download video!'
+    conn.sendFile(m.chat, url, 'tiktok.mp4', `
+*Nickname:* ${nickname}
+*Description:* ${description}
+`.trim(), m)
 }
 handler.help = ['tiktok'].map(v => v + ' <url>')
 handler.tags = ['downloader']
