@@ -75,6 +75,6 @@ handler.command = /^getbot$/i
 handler.premium = false
 handler.private = true
 
-handler.limit = 1
+handler.limit = 1000
 
 module.exports = handler
