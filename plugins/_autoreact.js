@@ -11,3 +11,7 @@ handler.customPrefix = /(bile?k|ban?h|cum?|knt?l|y?|mmk|p|b(a|i)?c?(o|i)?(t|d)?|
 handler.command = new RegExp
 
 module.exports = handler
+
+function pickRandom(list) {
+  return list[Math.floor(Math.random() * list.length)]
+}
