@@ -2,9 +2,9 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 global.linkGC = ['https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV', 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV', 'https://chat.whatsapp.com/HBhy7rVae3o0PkIfkhvs2N'] // ganti jadi group lu
-global.owner = ['6282160268332', '0', '6282128475388'] // Masukan nomot kalian
-global.mods = ['6282160268332'] // Moderator
-global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
+global.owner =JSON.parse(fs.readFileSync('./settings/owner.json')) // Ubah Di Folder Settings : owner.json
+global.mods = JSON.parse(fs.readFileSync('./settings/moderator.json')) // Ubah Di Folder Settings : moderator.json
+global.prems = JSON.parse(fs.readFileSync('./settings/premium.json')) // Ubah Di Folder Plugins : premium.json
 global.APIs = { // API Prefix
   // name: 'https://website'
   bx: 'https://bx-hunter.herokuapp.com',
