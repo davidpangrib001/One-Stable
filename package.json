@@ -1,6 +1,6 @@
 {
-  "name": "One-Botz",
-  "version": "4.87",
+  "name": "One",
+  "version": "5.0.0",
   "description": "Color Your Life",
   "depecrated": false,
   "main": "index.js",
