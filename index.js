@@ -34,7 +34,7 @@ function start(file) {
     stdio: ['inherit', 'inherit', 'inherit', 'ipc']
   })
   p.on('message', data => {
-    console.log('RECEIVED', data)
+    console.log('『 RECEIVED 』\n', data)
     switch (data) {
       case 'reset':
         p.kill()
